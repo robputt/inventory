@@ -1,0 +1,6 @@
+{
+    "device_type": "gateway",
+    "name": "Earlswood - Multi Channel Gateway"
+    "ttn_id": "firstliot_ttn_01",
+    "ckan_id": "0565ebdf-5ab7-42cf-93e4-5eb89b569968"
+}
