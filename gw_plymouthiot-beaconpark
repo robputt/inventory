@@ -1,0 +1,6 @@
+{
+    "device_type": "gateway",
+    "name": "Beacon Park - Multi Channel Gateway",
+    "ttn_id": "plymouthiot-beaconpark",
+    "ckan_id": "13c40344-3b22-442d-a8ed-09dac383b3e1"
+}
