@@ -1,6 +1,6 @@
 {
     "device_type": "gateway",
-    "name": "School of Computing, Electronics and Mathematics Gateway",
+    "name": "University of Plymouth SOCEM - Multi Channel Gateway",
     "ttn_id": "socem-uop-1",
     "ckan_id": "99234c46-8fea-4010-b424-e76c577391e6"
 }
