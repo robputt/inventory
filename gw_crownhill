@@ -1,0 +1,6 @@
+{
+    "device_type": "gateway",
+    "name": "Crownhill - Single Channel Gateway",
+    "ttn_id": "eui-b827ebffff138083",
+    "ckan_id": "69f5fccd-51a6-478f-8005-3c661ccc1df7"
+}
